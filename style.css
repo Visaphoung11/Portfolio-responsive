@@ -264,11 +264,12 @@ p {
 /* hero section */
 
 #hero {
-  background-image: url(./assets/images/hero-bg.jpg);
-  background-size: cover;
-  background-position: top center;
-  position: relative;
-  z-index: 1;
+  background-image: url(img/photo_2024-12-05_09-48-\ new31\ 1.svg);
+  background-color: #cccccc; 
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 #hero::after {
